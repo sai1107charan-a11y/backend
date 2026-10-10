@@ -1,0 +1,8 @@
+com/workouttracker/WorkoutOwnershipTest.class
+com/workouttracker/ProgramApiTest.class
+com/workouttracker/PlanApiTest.class
+com/workouttracker/AuthFlowTest.class
+com/workouttracker/SettingsAndUserTest.class
+com/workouttracker/SessionApiTest.class
+com/workouttracker/ExerciseApiTest.class
+com/workouttracker/StatsApiTest.class
